@@ -4,7 +4,7 @@
 
 ---
 
-![Test Badge](https://gist.githubusercontent.com/maxubrq/5e8582e7b60e6d8fa96aaf61a574502d/raw/f22c6ced48f272ca8c1fa56a16c754f6fe1fee1d/badge.svg)
+<script src="https://gist.github.com/maxubrq/5e8582e7b60e6d8fa96aaf61a574502d.js"></script>
 
 ## 🧠 What is Meroji?
 Meroji is a **personal idea vault** where you can **store, manage, and grow your ideas**.
